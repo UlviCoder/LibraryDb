@@ -1,0 +1,2 @@
+--CREATE DATABASE LibraryDb
+--USE LibraryDB
